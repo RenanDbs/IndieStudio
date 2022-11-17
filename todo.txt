@@ -1,0 +1,34 @@
+ALEX et MAX :
+    done - baisser les Y des bonus (parfois on passe en dessous du bonus) et main 
+    IA : - prendre les bonus
+         - Différent niveau d'intelligence
+
+IMPORTANT :
+done UI reduire nb décimales 
+done Boutton 4 IA
+bug quand tu tues un player et que tu reposes une bombe
+exploser une seule box
+son : explosion de bombe, spawn de la bombe, quand on prend un bonus
+les deux bonus manquants
+intro/splashscreen
+
+
+SI ON A LE TEMPS:
+intro/splashscreen : de manière procédurale
+OPTIONS : changer binding, resolution écran, niveau sonore, gestion manettes
+save/load une partie, avec une image, les nommer et les dater
+égalité à la fin de partie
+animations
+transitions entre les menus
+pas trop d'assets
+map généré prodécuralement
+le plus possible de sound effect et de musique
+execptions pour la gestion d'erreurs
+pas de fonctions C s'il existe un équivalent CPP
+CMAKE_BUILD_TYPE
+
+
+
+
+
+remplacer pointer par smart pointer 

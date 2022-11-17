@@ -1,0 +1,17 @@
+ALEX et MAX :
+    baisser les Y des bonus (parfois on passe en dessous du bonus) et main 
+    IA
+    CMAKE_BUILD_TYPE
+
+IMPORTANT :
+<<<<<<< HEAD
+UI reduire nb décimales 
+=======
+>>>>>>> 3eded1644961cb929d93451ab53930f3e3b336b1
+bug quand tu tues un player et que tu reposes une bombe
+exploser une seule box
+
+SI ON A LE TEMPS:
+intro
+gestion manettes
+save/load une partie

@@ -1,0 +1,9 @@
+.vscode
+IndieStudio
+*.vgcore
+a.out
+build/
+CMakeFiles
+nobox.csv
+vgcore.*
+test.cpp
